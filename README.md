@@ -1,16 +1,13 @@
-### Hi there 👋
+# Anthony Reynolds - Web Developer
 
-<!--
-**anthonymarkreynolds/anthonymarkreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Anthony Reynolds, and I am a Web Developer with experience in HTML, CSS, JavaScript, React, and SCSS. I have a background in enterprise windows infrastructure and have experience with PRTG, VoIP, POS and MSSQL server. I am also proficient in Linux, Shell scripting, Neovim, Nix, and NixOS. I am currently enrolled in a full-stack web development bootcamp at Coder Academy, expected to graduate in 2023.
 
-Here are some ideas to get you started:
+Here are some of my latest projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Modulo Calculator](https://github.com/anthonymarkreynolds/Graphical-Modulo-Calculator): A simple calculator app built using React, JavaScript and Material-UI.
+- [Weather App](https://github.com/anthonymarkreynolds/Dingo-Weather): A team hackathon project built using React, JavaScript and OpenWeather API.
+- [WebAudio Drum Machine](https://github.com/anthonymarkreynolds/Dingo-Percussion-Controller): An interactive drum machine built using React, JavaScript, and the WebAudio API.
+
+Please feel free to take a look at my code and leave me any feedback or suggestions. If you're interested in working with me or have any questions, please don't hesitate to contact me.
+
+Thank you for visiting my GitHub profile!
