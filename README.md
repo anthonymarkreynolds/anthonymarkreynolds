@@ -1,6 +1,6 @@
 # Anthony Reynolds - Web Developer
 
-Hello! My name is Anthony Reynolds, and I am a Web Developer with experience in HTML, CSS, JavaScript, React, and SCSS. I have a background in enterprise windows infrastructure and have experience with PRTG, VoIP, POS and MSSQL server. I am also proficient in Linux, Shell scripting, Neovim, Nix, and NixOS. I am currently enrolled in a full-stack web development bootcamp at Coder Academy, expected to graduate in 2023.
+Hello! My name is Anthony Reynolds, and I am a Web Developer with experience in HTML, CSS, JavaScript, React, and SCSS. I have a background in building responsive and accessible websites and have experience with Material-UI, web accessibility and browser compatibility issues. I am also proficient in Linux, Shell scripting, Neovim, Nix, and NixOS. I am currently enrolled in a full-stack web development bootcamp at Coder Academy, expected to graduate in 2023.
 
 Here are some of my latest projects:
 
