@@ -1,6 +1,9 @@
 # Anthony Reynolds - Web Developer
 
-Here are some of my latest projects:
+## Founder of [Quasi-Mind](https://github.com/Quasi-Mind) and the [Deep Unconscious Mind (DUM) Framework](https://github.com/Quasi-Mind/deep-unconscious-mind)
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
+
+Here are some recent projects:
 
 - [Modulo Calculator](https://github.com/anthonymarkreynolds/Graphical-Modulo-Calculator): A simple calculator app built using React, JavaScript and Material-UI.
 - [Weather App](https://github.com/anthonymarkreynolds/Dingo-Weather): A team hackathon project built using React, JavaScript and OpenWeather API.
