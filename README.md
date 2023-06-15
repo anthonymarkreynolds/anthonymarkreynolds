@@ -1,4 +1,4 @@
-# Anthony Reynolds - Web Developer
+# Anthony Reynolds - Web Developer, Prompt Engineer
 
 ## Founder of [Quasi-Mind](https://github.com/Quasi-Mind) and the [Deep Unconscious Mind (DUM) Framework](https://github.com/Quasi-Mind/deep-unconscious-mind)
 <a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
