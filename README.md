@@ -6,6 +6,10 @@ Please feel free to take a look at my code and leave me any feedback or suggesti
 
 Thank you for visiting my GitHub profile!
 
+<image  src="https://exercism.org/profiles/anthonymarkreynolds.jpg" alt="my Exercism.org profile"/>
+
+[![Exercism Profile](https://exercism.org/profiles/anthonymarkreynolds)](https://exercism.org/profiles/anthonymarkreynolds)
+
 [https://codepen.io/anthonymarkreynolds](https://codepen.io/anthonymarkreynolds)
 
 [https://dev.to/anthonymarkreynolds](https://dev.to/anthonymarkreynolds)
