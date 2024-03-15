@@ -1,6 +1,4 @@
-# Anthony Reynolds - FP Enthusiast, Web Developer, Prompt Engineer
-
-## Pioneer of the [Deep Unconscious Mind (DUM) Framework](https://github.com/Quasi-Mind/deep-unconscious-mind)
+# Anthony Reynolds - FP Enthusiast
 
 Please feel free to take a look at my code and leave me any feedback or suggestions. If you're interested in working with me or have any questions, please don't hesitate to contact me.
 
